@@ -29,6 +29,7 @@
 			};
 		};
 	};
+};
 
 	pm6125-tz {
 		cooling-maps {
